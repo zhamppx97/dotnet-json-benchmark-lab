@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{51B5B67B-3260-483B-87D5-83E637C51AC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-json-benchmark-lab", "dotnet-json-benchmark-lab\dotnet-json-benchmark-lab.csproj", "{65E4AE7A-4E29-4659-90BD-6EF722D8790A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-json-benchmark-lab", "src\dotnet-json-benchmark-lab\dotnet-json-benchmark-lab.csproj", "{65E4AE7A-4E29-4659-90BD-6EF722D8790A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
